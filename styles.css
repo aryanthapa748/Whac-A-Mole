@@ -1,0 +1,17 @@
+.container{
+    height: 600px;
+    width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.square{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+}
+
+.mole{
+    background-color: aqua;
+}
