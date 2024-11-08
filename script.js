@@ -52,4 +52,4 @@ function countDown(){
     }
 }
 
-let countDownTimer = setInterval(countDown, 400); // for counting down the seconds which is obtained by setInterval so every 1second it will run function CountDown() which will actually decrease the time by 1.
+let countDownTimer = setInterval(countDown, 1000); // for counting down the seconds which is obtained by setInterval so every 1second it will run function CountDown() which will actually decrease the time by 1.

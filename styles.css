@@ -13,5 +13,6 @@
 }
 
 .mole{
-    background-color: aqua;
+    background-image: url(images/whacamole.png);
+    background-size: cover;
 }
